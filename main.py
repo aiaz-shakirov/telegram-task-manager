@@ -1,1 +1,1 @@
-print('Telegram bot is loading...')
+print('Hello World')
